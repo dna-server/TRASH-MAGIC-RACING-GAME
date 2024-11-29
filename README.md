@@ -3,6 +3,7 @@ a default racing game engine
 
 
 which runs on a portable handheld gaming device
+
 the TRASH MAGIC RACING GAME shall be hardwired into the circuitry simply because that is the only thing that this device is ever intended to do
 - as usual, the device will still be disassemblable and upcyclable; the buttons and batteries and drives and etc. are easily removable and switchable without damage and instructions are included on how to perform this
 
