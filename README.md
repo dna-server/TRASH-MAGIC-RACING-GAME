@@ -20,5 +20,5 @@ it must obviously be open-source, free to build, easy to modify / upcycle, and c
 
 this is all COPYRIGHTED UNDER MY NEW COPYRIGHT I JUST MADE UP CALLED
 
-#SILLYCOPYRIGHT which is a joke of a copyright with no legal legitimacy whatsoever whose functions is actually to draw attention to the fact that communities are always better adapted to survive and thrive when they share and cooperate, which copyright by definition is the antithesis of.
+#SILLYCOPYRIGHT which is a joke of a copyright with no legal legitimacy whatsoever whose function is actually to draw attention to the fact that communities are always better adapted to survive and thrive when they share and cooperate, which copyright by definition is the antithesis of.
 
